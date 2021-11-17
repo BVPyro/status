@@ -29,6 +29,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  themeUrl: https://status.bvpk.org/bvpk.css
+  theme: night
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
