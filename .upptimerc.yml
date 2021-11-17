@@ -4,12 +4,15 @@ owner: BVPyro # Your GitHub organization or username, where this repository live
 repo: status # The name of this repository
 
 sites:
-  - name: Main website
+  - name: Frontend
     url: https://bvpk.org
+    icon: https://bvpk.org/favicon/favicon-16x16.png
   - name: Backend
     url: https://db.bvpk.net
+    icon: https://db.bvpk.net/dashboard/favicon-32.png
   - name: Analytics
     url: https://umami.bvpk.net
+    icon: https://umami.bvpk.net/favicon-16x16.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,14 +20,15 @@ status-website:
   cname: status.bvpk.org
   # baseUrl: /your-repo-name
   logoUrl: https://bvpk.org/favicon/favicon-16x16.png
+  favicon: https://bvpk.org/favicon/favicon-16x16.png
   name: BVPK Status
-  introTitle: "A status page for bvpk.org."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Der Status des Webpräsenz vom Bundesverband für Pyrotechnik und Kunstfeuerwerk e.V."
+  introMessage: "Hier bekommen Sie einen Überblick darüber, ob die Dienste des Vereins normal operieren."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: night
+  theme: https://status.bvpk.org/bvpk.css
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
