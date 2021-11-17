@@ -9,7 +9,7 @@ sites:
   - name: Backend
     url: https://db.bvpk.net
   - name: Analytics
-    url: https://umamit.bvpk.net
+    url: https://umami.bvpk.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
