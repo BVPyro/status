@@ -1,7 +1,7 @@
 url: https://db.bvpk.net
-status: up
-code: 200
-responseTime: 882
-lastUpdated: 2021-11-17T23:12:08.784Z
+status: down
+code: 404
+responseTime: 454
+lastUpdated: 2021-11-18T09:31:08.307Z
 startTime: Wed Nov 17 2021 13:51:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
