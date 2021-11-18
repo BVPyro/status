@@ -22,35 +22,39 @@
     "url": "https://db.bvpk.net",
     "icon": "https://db.bvpk.net/dashboard/favicon-32.png",
     "slug": "backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 846,
-    "timeWeek": 846,
-    "timeMonth": 846,
-    "timeYear": 846,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 797,
+    "timeDay": 797,
+    "timeWeek": 797,
+    "timeMonth": 797,
+    "timeYear": 797,
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   },
   {
     "name": "Analytics",
     "url": "https://umami.bvpk.net",
     "icon": "https://umami.bvpk.net/favicon-16x16.png",
     "slug": "analytics",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 535,
-    "timeWeek": 535,
-    "timeMonth": 535,
-    "timeYear": 535,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 541,
+    "timeDay": 541,
+    "timeWeek": 541,
+    "timeMonth": 541,
+    "timeYear": 541,
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   }
 ]
