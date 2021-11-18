@@ -8,11 +8,11 @@ sites:
     url: https://bvpk.org
     icon: https://bvpk.org/favicon/favicon-16x16.png
   - name: Backend
-    url: https://db.bvpk.net
-    icon: https://db.bvpk.net/dashboard/favicon-32.png
+    url: https://db.bvpk.org
+    icon: https://db.bvpk.org/dashboard/favicon-32.png
   - name: Analytics
-    url: https://umami.bvpk.net
-    icon: https://umami.bvpk.net/favicon-16x16.png
+    url: https://umami.bvpk.org
+    icon: https://umami.bvpk.org/favicon-16x16.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
