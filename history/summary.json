@@ -4,10 +4,10 @@
     "url": "https://bvpk.org",
     "icon": "https://bvpk.org/favicon/favicon-16x16.png",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 941,
@@ -15,25 +15,28 @@
     "timeWeek": 1759,
     "timeMonth": 1030,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 2
+    }
   },
   {
     "name": "Backend",
     "url": "https://db.bvpk.org",
     "icon": "https://db.bvpk.org/dashboard/favicon-32.png",
     "slug": "backend",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 848,
     "timeDay": 811,
     "timeWeek": 905,
     "timeMonth": 832,
     "timeYear": 848,
     "dailyMinutesDown": {
+      "2022-03-31": 1,
       "2021-11-18": 29
     }
   },
@@ -42,10 +45,10 @@
     "url": "https://cms.bvpk.org",
     "icon": "https://cms.bvpk.org/admin/img/icons/android-chrome-512x512.png",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
@@ -53,16 +56,18 @@
     "timeWeek": 707,
     "timeMonth": 687,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 1
+    }
   },
   {
     "name": "Analytics",
     "url": "https://umami.bvpk.org",
     "icon": "https://umami.bvpk.org/favicon-16x16.png",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -72,6 +77,7 @@
     "timeMonth": 531,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2022-03-31": 0,
       "2021-11-18": 29
     }
   }
