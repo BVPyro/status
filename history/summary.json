@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.89%",
-    "time": 936,
-    "timeDay": 914,
-    "timeWeek": 891,
-    "timeMonth": 1050,
-    "timeYear": 936,
+    "time": 934,
+    "timeDay": 673,
+    "timeWeek": 840,
+    "timeMonth": 1045,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2022-03-31": 230
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.87%",
-    "time": 849,
+    "time": 848,
     "timeDay": 785,
-    "timeWeek": 864,
-    "timeMonth": 856,
-    "timeYear": 849,
+    "timeWeek": 834,
+    "timeMonth": 855,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2022-03-31": 230,
       "2021-11-18": 29
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.89%",
-    "time": 721,
-    "timeDay": 792,
-    "timeWeek": 687,
-    "timeMonth": 693,
-    "timeYear": 721,
+    "time": 720,
+    "timeDay": 531,
+    "timeWeek": 671,
+    "timeMonth": 692,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2022-03-31": 229
     }
@@ -66,14 +66,14 @@
     "icon": "https://umami.bvpk.org/favicon-16x16.png",
     "slug": "analytics",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 557,
-    "timeDay": 442,
-    "timeWeek": 463,
+    "timeDay": 575,
+    "timeWeek": 474,
     "timeMonth": 503,
     "timeYear": 557,
     "dailyMinutesDown": {
